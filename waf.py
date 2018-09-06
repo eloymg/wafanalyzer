@@ -19,7 +19,7 @@ class Waf(object):
     ALL = "ALL"
 
     # API settings
-    API     = "https://api.cloudflare.com/v4/"
+    API     = "https://api.cloudflare.com/client/v4/"
     TIMEOUT = 30
     ROWS    = 15
 
